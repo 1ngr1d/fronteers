@@ -52,8 +52,9 @@ out, open up discussion and let’s have fun!
 4. `base/` – Base elements, unclassed `h1`, `ol`, etc. These are semantic
    HTML elements that require some base styling for when they exist outside of
    a component context (e.g. a regular, bulleted list in some body copy).
-5. `gui/` – Designed components and modules. These build on top of semantic
+5. `objects/` – design patterns, objects, abstractions and constructs.
+6. `gui/` – Designed components and modules. These build on top of semantic
    HTML elements and are referred to mainly through class selectors.
-6. `trumps/` – Style trumps, helper classes and overrides. These need to
+7. `trumps/` – Style trumps, helper classes and overrides. These need to
    override any other styles and thus come last. It is now uncommon for these
    styles to carry `!important`.
