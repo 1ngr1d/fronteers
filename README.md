@@ -1,5 +1,45 @@
 # Planning and Building a Big Front-End
 
+Today’s workshop is going to be pretty hectic; there’s a lot to get through and
+I’m keen not to spend too much time talking at you. Below is a list of things
+I’d like to cover and the rough order in which I want to go about it but… Let’s
+just enjoy ourselves, freestyle it and hammer out some code! Interrupt me shout
+out, open up discussion and let’s have fun!
+
+## Schedule
+
+* Intro
+* Setup
+    * Get the repo
+    * Get Sass working
+        * Intro to Sass for any who need it
+    * Have a peek round the repo
+* Look at the design
+    * Rationalise/discuss it
+    * Deconstruct it
+* Code theory
+    * A shift in thought
+        * The web has changed
+        * The three stakeholders – who we need to keep happy
+    * SRP
+    * Selectors
+    * Specificity
+    * Semantics are silly
+    * Naming things
+    * Naming conventions
+    * Shearing layers
+* Let’s code!
+    * Familiarise ourselves with the codebase
+        * This looks huuuuuuge!
+        * Look at its structure, what lives where (and why)
+    * Using the above, let’s build some stuffs!
+    * No layout.
+* Layout
+    * Layout should be a component unto itself
+    * Put all our components into a page
+    * Done.
+* Questions, recap.
+
 ## Source order
 
 1. `settings/` – Variables, feature switches and other project specific
