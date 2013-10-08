@@ -58,3 +58,27 @@ out, open up discussion and let’s have fun!
 7. `trumps/` – Style trumps, helper classes and overrides. These need to
    override any other styles and thus come last. It is now uncommon for these
    styles to carry `!important`.
+
+## Important numbers and values
+
+* Page background color: `#f9f9f9`
+* Page text color: `#424242`
+* Pink: `#f43059`
+* Nav border color: `#e0e0e0`
+* Nav grad start: `#fafafa`
+* Nav grad stop: `#e1e1e1`
+* Grey box grad start: `#535657`
+* Grey box grad stop: `#414445`
+* Pink button grad start: `#f54469`
+* Pink button grad stop: `#d12a4c`
+* Pink button border color: `#bd2343`
+* Grey button grad start: `#30312f`
+* Grey button grad stop: `#292a28`
+* Grey button border color: `#1a1b19`
+* Solid grey box color: `#e8e1df`
+* `h1`:
+* `h2`:
+* `h3`:
+* `h4`:
+* `h5`:
+* `h6`:
